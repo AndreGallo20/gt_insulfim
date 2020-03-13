@@ -1,0 +1,17 @@
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.dll
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.pdb
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.csprojAssemblyReference.cache
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.csproj.CoreCompileInputs.cache
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.dll
+D:\APPs\Faculdade\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.pdb
+D:\Faculdade\Nova pasta\Japa\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.dll
+D:\Faculdade\Nova pasta\Japa\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.pdb
+D:\Faculdade\Nova pasta\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.csprojAssemblyReference.cache
+D:\Faculdade\Nova pasta\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.dll
+D:\Faculdade\Nova pasta\Japa\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.pdb
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.dll
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\bin\Debug\AcessaDados.pdb
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.csprojAssemblyReference.cache
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.csproj.CoreCompileInputs.cache
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.dll
+C:\Users\junin\OneDrive - Associacao de Educacao e Cultura do Norte Paulista\Área de Trabalho\Controle_Estoque\AcessaDados\obj\Debug\AcessaDados.pdb
